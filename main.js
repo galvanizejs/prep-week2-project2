@@ -9,7 +9,6 @@ HTML page. In some cases, you may want to check
 within the console for verification of the array. 
 
 console.log();
-
 =======================================================
 */
 // this is a comment and practice with git kraken
@@ -19,7 +18,7 @@ console.log();
 document.getElementById("q0").innerHTML = "JS Page Connected Properly!";
 document.getElementById("q0").classList.add("status-good");
 
-
+// this is the practice for git kraken branch
 
 
 // 1. Declare a variable whose value is an empty array.
