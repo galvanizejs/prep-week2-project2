@@ -12,7 +12,7 @@ console.log();
 
 =======================================================
 */
-
+// this is a comment and practice with git kraken
 
 // 0. Connect the main.js document to the HTML page.
 /*    Add to the bottom of the HTML page: <script src="main.js"></script>*/
