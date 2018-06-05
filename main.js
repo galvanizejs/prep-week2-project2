@@ -7,19 +7,18 @@ using JS. The JS code can be written below each
 problem and the results can be displayed into the
 HTML page. In some cases, you may want to check 
 within the console for verification of the array. 
-
+//this is just to check the kraken is connected 
 console.log();
-
 =======================================================
 */
-
-
+// 
+//this is  a commment in order to practice in git kraken
 // 0. Connect the main.js document to the HTML page.
 /*    Add to the bottom of the HTML page: <script src="main.js"></script>*/
 document.getElementById("q0").innerHTML = "JS Page Connected Properly!";
 document.getElementById("q0").classList.add("status-good");
 
-
+// this is the practice for git kraken branch
 
 
 // 1. Declare a variable whose value is an empty array.
