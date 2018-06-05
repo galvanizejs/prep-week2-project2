@@ -11,8 +11,8 @@ within the console for verification of the array.
 console.log();
 =======================================================
 */
-// this is a comment and practice with git kraken
-
+// 
+//this is  a commment in order to practice in git kraken
 // 0. Connect the main.js document to the HTML page.
 /*    Add to the bottom of the HTML page: <script src="main.js"></script>*/
 document.getElementById("q0").innerHTML = "JS Page Connected Properly!";
