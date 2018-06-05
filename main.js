@@ -7,7 +7,7 @@ using JS. The JS code can be written below each
 problem and the results can be displayed into the
 HTML page. In some cases, you may want to check 
 within the console for verification of the array. 
-
+//this is just to check the kraken is connected 
 console.log();
 =======================================================
 */
